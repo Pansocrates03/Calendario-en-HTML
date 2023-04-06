@@ -1,0 +1,47 @@
+td {
+    width: 5vw;
+    height: 5vw;
+    text-align: center;
+    background-color: #edede9;
+    border-style: solid;
+    border-color: #edede9;
+    font-size: 2vw;
+
+}
+
+th {
+    width: 2vw;
+    background-color: #d6ccc2;
+}
+
+div.main {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+}
+button {
+    width: 3vw;
+    height: 2vw;
+    background-color: #d6ccc2;
+    border-color: #d6ccc2;
+    font-size: 1vw;
+}
+body {
+    background-color: #edede9;
+}
+
+.de {
+    display: flex;
+    justify-content: flex-end;
+}
+
+div.top {
+    text-align: center;
+}
